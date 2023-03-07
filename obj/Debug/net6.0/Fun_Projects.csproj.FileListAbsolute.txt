@@ -1,0 +1,15 @@
+C:\Users\Onwe\Documents\Projects\Fun_Projects\obj\Debug\net6.0\Fun_Projects.csproj.AssemblyReference.cache
+C:\Users\Onwe\Documents\Projects\Fun_Projects\obj\Debug\net6.0\Fun_Projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Onwe\Documents\Projects\Fun_Projects\obj\Debug\net6.0\Fun_Projects.AssemblyInfoInputs.cache
+C:\Users\Onwe\Documents\Projects\Fun_Projects\obj\Debug\net6.0\Fun_Projects.AssemblyInfo.cs
+C:\Users\Onwe\Documents\Projects\Fun_Projects\obj\Debug\net6.0\Fun_Projects.csproj.CoreCompileInputs.cache
+C:\Users\Onwe\Documents\Projects\Fun_Projects\bin\Debug\net6.0\Fun_Projects.exe
+C:\Users\Onwe\Documents\Projects\Fun_Projects\bin\Debug\net6.0\Fun_Projects.deps.json
+C:\Users\Onwe\Documents\Projects\Fun_Projects\bin\Debug\net6.0\Fun_Projects.runtimeconfig.json
+C:\Users\Onwe\Documents\Projects\Fun_Projects\bin\Debug\net6.0\Fun_Projects.dll
+C:\Users\Onwe\Documents\Projects\Fun_Projects\bin\Debug\net6.0\ref\Fun_Projects.dll
+C:\Users\Onwe\Documents\Projects\Fun_Projects\bin\Debug\net6.0\Fun_Projects.pdb
+C:\Users\Onwe\Documents\Projects\Fun_Projects\obj\Debug\net6.0\Fun_Projects.dll
+C:\Users\Onwe\Documents\Projects\Fun_Projects\obj\Debug\net6.0\ref\Fun_Projects.dll
+C:\Users\Onwe\Documents\Projects\Fun_Projects\obj\Debug\net6.0\Fun_Projects.pdb
+C:\Users\Onwe\Documents\Projects\Fun_Projects\obj\Debug\net6.0\Fun_Projects.genruntimeconfig.cache
