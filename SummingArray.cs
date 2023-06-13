@@ -6,7 +6,7 @@ namespace Fun_Projects
         public static void Sum_array()
         {
             // Creating a functin that sums the numbers in an array
-            int[] numarr = {1, 2, 3, 4, 5};
+            int[] numarr = {1, 2, 3, 4, 5, -3, -4};
             int sum = 0;
             for (int i = numarr[0]; i <= numarr.Length; i++)
             {
